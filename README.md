@@ -1,2 +1,1 @@
-# GitHub-scenarij
-github scenarij, vrednovanje kvalitete github-a
+Studiram na Fakultetu informatike u Puli
